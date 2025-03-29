@@ -1,6 +1,8 @@
 # proxy-lists
 
-always check 100proxies from the list to this website and filter out all working.
-
+check all working proxies in this website
 
 https://proxy-seller.com/tools/proxy-checker/
+
+will be available soon after the sanitation. 
+[HTTPS, HTTP, FTP, SMTP]
